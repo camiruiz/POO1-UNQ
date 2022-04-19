@@ -1,2 +1,2 @@
-# POO1-UNQ
-Trabajo integrador sobre un juego a desarrollar en Wollok para Objetos 1.
+# Nuevo proyecto
+Inserte la descripción de su proyecto aquí
