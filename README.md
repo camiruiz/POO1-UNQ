@@ -1,2 +1,2 @@
-# Nuevo proyecto
-Inserte la descripción de su proyecto aquí
+POO1
+Trabajo práctico integrador grupal donde desarrollamos un juego en Wollok: amUNQ us.
